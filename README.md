@@ -18,14 +18,13 @@ My name’s Andrew. I’m a student at John F. Kennedy High School who’s inter
 These repositories were developed over the past several years and recently organized on GitHub to make my work publicly accessible. 
 Their commit dates may therefore reflect when they were uploaded rather than when the projects were originally created.
 
-### [Autoregressive Music Generator](REPOSITORY_LINK)
-
+### [Autoregressive Music Generator](https://github.com/AndrewMilitello/parallel-music-generator)
 A recent experimental autoregressive music\-generation model implemented from scratch in NumPy\.(Work in Progress)
 
-### [Polynomial Regression Lighting AI](REPOSITORY_LINK)
+### [Polynomial Regression Lighting AI](https://github.com/AndrewMilitello/polynomial-regression-lighting-AI)
 An earlier exploration of neural networks and polynomial regression for image\-based lighting transformations\.
 
-### [Kaelum](REPOSITORY_LINK)
+### [Kaelum](https://github.com/AndrewMilitello/Kaelum)
 An earlier LLM\-powered Discord bot featuring conversational memory, retrieval, and multiple model integrations\.
 
 ## Interested in Exploring
