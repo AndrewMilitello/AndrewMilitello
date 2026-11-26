@@ -2,11 +2,11 @@
 My name’s Andrew. I’m a student at John F. Kennedy High School who’s interested in machine learning and natural language processing. I hope to conduct research in NLP and in the future want to become an AI engineer at DeepMind or OpenAI.
 
 ## Fun Facts About Me
+  - I've been playing the piano for over 9 years
   - I love learning about Math, AI, and Chemistry
-  - I’m interesting in researching Large Language Models and Natural Language Processing 
+  - I’m interesting in researching Large Language Models and Natural Language Processing
+  - I am a competitive Rock Climbe
   - I’ve been folding origami since age 5 and attend annual OrigamiUSA conventions
-  - I have a passion for playing piano
-  - I’m a competitive Rock Climber
 
 ## Machine Learning Background
  - Studied Machine Learning in Python by Sebastian Raschka.
@@ -25,7 +25,7 @@ A recent experimental autoregressive music\-generation model implemented from sc
 An earlier exploration of neural networks and polynomial regression for image\-based lighting transformations\.
 
 ### [Kaelum](https://github.com/AndrewMilitello/Kaelum)
-An earlier LLM\-powered Discord bot featuring conversational memory, retrieval, and multiple model integrations\.
+An earlier LLM\-powered Discord bot featuring conversational memory, retrieval, and multiple model integrations, focusing on adapting AI to interact with humans in real-world settings\.
 
 ## Interested in Exploring
 
