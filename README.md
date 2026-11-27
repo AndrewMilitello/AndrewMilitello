@@ -5,7 +5,7 @@ My name’s Andrew. I’m a student at John F. Kennedy High School who’s inter
   - I've been playing the piano for over 9 years
   - I love learning about Math, AI, and Chemistry
   - I’m interesting in researching Large Language Models and Natural Language Processing
-  - I am a competitive Rock Climbe
+  - I am a competitive Rock Climber
   - I’ve been folding origami since age 5 and attend annual OrigamiUSA conventions
 
 ## Machine Learning Background
